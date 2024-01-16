@@ -45,7 +45,7 @@ Configuration for app (Application settings):
 {
   "PSWIN_USERNAME": "username",
   "PSWIN_PASSWORD": "password",
-  "DEFAULT_SENDER": "VTFK"
+  "DEFAULT_SENDER": "TelemarkFK"
 }
 ```
 
